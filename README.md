@@ -1,4 +1,4 @@
-# Documentación Técnica y Manual de Usuario: Admin_Sys
+# Documentación Técnica y Manual de Usuario: Admin_Sys 
 
 **Admin_Sys** es una suite de administración de sistemas en modo consola desarrollada en C (C99 / POSIX). Este documento ofrece una visión integral del proyecto, cubriendo desde sus objetivos y requisitos de compilación hasta el detalle de su arquitectura modular y funcionalidades.
 
